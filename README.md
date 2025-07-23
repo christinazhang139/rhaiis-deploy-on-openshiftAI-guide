@@ -1,4 +1,4 @@
-# Deploy LLM on OpenShift,using Red Hat Inference Server Guide
+# 	Guide to Deploying Large Language Models on OpenShift AI with Red Hat Inference Server
 
 <img width="2168" height="1392" alt="image" src="https://github.com/user-attachments/assets/b0e67d47-324c-4f64-95ed-bf4662524fd5" />
 
