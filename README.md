@@ -1,5 +1,5 @@
-# Red Hat Inference Server Complete Deployment Guide
-## On OpenShift with Internal Testing
+# Deploy LLM on OpenShift,using Red Hat Inference Server Guide
+
 
 ## Environment Verification ✅
 Ensure the following components are ready:
