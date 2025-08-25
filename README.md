@@ -2,7 +2,7 @@
 
 <img width="2168" height="1392" alt="image" src="https://github.com/user-attachments/assets/b0e67d47-324c-4f64-95ed-bf4662524fd5" />
 
-## Environment Verification ✅
+## Environment Verification 
 Ensure the following components are ready:
 - KServe controller running normally
 - All Knative Serving components running normally
@@ -10,12 +10,12 @@ Ensure the following components are ready:
 - DataScienceCluster status is Ready
 
 **Required Operators Installed**:
-- ✅ **NVIDIA GPU Operator** - Provides GPU support
-- ✅ **Red Hat OpenShift AI** - Provides AI/ML platform functionality
-- ✅ **Red Hat OpenShift Serverless** - Provides Knative Serving support
-- ✅ **Red Hat OpenShift Service Mesh 2** - Provides Istio service mesh support
-- ✅ **Node Feature Discovery Operator** - Automatically discovers node features
-- ✅ **Package Server** - Manages Operator packages
+-  **NVIDIA GPU Operator** - Provides GPU support
+-  **Red Hat OpenShift AI** - Provides AI/ML platform functionality
+-  **Red Hat OpenShift Serverless** - Provides Knative Serving support
+-  **Red Hat OpenShift Service Mesh 2** - Provides Istio service mesh support
+-  **Node Feature Discovery Operator** - Automatically discovers node features
+-  **Package Server** - Manages Operator packages
 
 **Verify Operators Status**:
 ```bash
@@ -541,13 +541,13 @@ oc delete project ai-inference-demo
 
 This guide provides a complete Red Hat Inference Server deployment and internal testing process:
 
-✅ **Advantages**:
+ **Advantages**:
 - 🔒 **Secure**: All testing is done internally within the cluster, no need to expose external endpoints
 - ⚡ **Efficient**: Uses PVC local storage for fast model loading
 - 🛠️ **Flexible**: Supports multiple testing methods and interaction approaches
 - 📊 **Observable**: Provides detailed monitoring and log viewing methods
 
-✅ **Use Cases**:
+ **Use Cases**:
 - Development and testing environment verification
 - Internal API integration testing
 - Model performance evaluation
